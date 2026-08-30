@@ -1,15 +1,17 @@
+# `> SYSTEM.INIT()` — GABRIEL ORTIZ
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6f42c1&height=220&section=header&text=ORTIZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TECH%20%7C%20CODE%20%7C%20CREATE&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6f42c1&height=220&section=header&text=GABRIEL%20ORTIZ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TECH%20%7C%20CODE%20%7C%20CREATE&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Initializing+OrtizOS...;T%C3%A9cnico+de+Inform%C3%A1tica+%7C+Developer;Building+ideas+into+code...;HTML+%7C+CSS+%7C+Python+%7C+Arduino;System+online.+Let's+build+something." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Initializing+GabrielOS...;T%C3%A9cnico+de+Inform%C3%A1tica;Web+Development+%7C+Programming;HTML+%7C+CSS+%7C+Python+%7C+Arduino;Learning.+Building.+Improving.;System+online." />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-111827?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LEARNING-EVERYDAY-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-111827?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEARNING-ACTIVE-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
 ---
@@ -17,69 +19,69 @@
 ## `> whoami`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                    ORTIZ PROFILE                         │
-├──────────────────────────────────────────────────────────┤
-│ Role       : Técnico de Informática / Developer          │
-│ Focus      : Web Development • Programming • Hardware    │
-│ Languages  : Python • HTML • CSS                         │
-│ Hardware   : Arduino • PC Hardware                       │
-│ Education  : Técnico de Informática                      │
-│ Status     : Learning & Building                         │
-└──────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                    GABRIEL ORTIZ                           │
+├────────────────────────────────────────────────────────────┤
+│ Role       : Técnico de Informática / Student Developer    │
+│ Focus      : Web • Programming • Hardware                  │
+│ Languages  : Python • HTML • CSS                           │
+│ Hardware   : Arduino • PC Hardware                         │
+│ Education  : Técnico de Informática                        │
+│ Status     : Learning & Building                           │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ### 👾 Sobre Mim
 
-Sou estudante de **Técnico de Informática**, interessado em tecnologia, programação, desenvolvimento web e hardware.
+Olá! Eu sou **Gabriel Ortiz**, estudante de **Técnico de Informática** e apaixonado por tecnologia.
 
-Gosto de entender **como as coisas funcionam**, testar soluções e transformar ideias em projetos reais. Atualmente venho desenvolvendo meus conhecimentos principalmente em **HTML, CSS, Python e Arduino**,  além de explorar ferramentas e tecnologias utilizadas no dia a dia da área de informática.
+Tenho interesse em **programação, desenvolvimento web, hardware e projetos de tecnologia**. Atualmente estou desenvolvendo minhas habilidades principalmente com **HTML, CSS, Python e Arduino**, sempre buscando transformar o que aprendo em projetos práticos.
 
-Meu objetivo é evoluir constantemente, construir projetos cada vez melhores e transformar conhecimento em algo que realmente funcione.
+Gosto de entender como as coisas funcionam, testar soluções e aprender fazendo.
 
-> `Think. Build. Test. Improve. Repeat.`
+```text
+> Curiosity.exe      [RUNNING]
+> Learning.exe       [RUNNING]
+> Creativity.exe     [RUNNING]
+> Giving_up.exe      [NOT FOUND]
+```
 
 ---
 
 ## `> tech.stack`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,python,arduino,git,github,vscode,windows" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,python,arduino,git,github,vscode,windows" />
 </p>
 
 ### ⚡ Tecnologias
 
-| Tecnologia | Nível de foco            |
-| ---------- | ------------------------ |
-| 🌐 HTML    | Web Development          |
-| 🎨 CSS     | Web Design & Layout      |
-| 🐍 Python  | Programming & Logic      |
-| 🤖 Arduino | Electronics & Automation |
-| 🔧 Git     | Version Control          |
-| 🐙 GitHub  | Projects & Collaboration |
+```text
+┌──────────────────┬─────────────────────────────────┐
+│ HTML             │ Web Structure                   │
+│ CSS              │ Styling & Layout                │
+│ Python           │ Programming & Logic             │
+│ Arduino          │ Electronics & Automation        │
+│ Git              │ Version Control                 │
+│ GitHub           │ Code & Projects                 │
+└──────────────────┴─────────────────────────────────┘
+```
 
 ---
 
 ## `> tools`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,canva,arduino" />
-
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,canva" />
 </p>
 
-```text
-[TOOLS]
-├── VS Code
-├── Git / GitHub
-├── Arduino IDE
-├── Canva
-├── Microsoft Outlook
-├── Microsoft SharePoint
-└── Windows
-```
+* 💻 Visual Studio Code
+* 🔧 Git & GitHub
+* 🤖 Arduino IDE
+* 🎨 Canva
+* 📧 Microsoft Outlook
+* ☁️ Microsoft SharePoint
+* 🪟 Windows
 
 ---
 
@@ -93,9 +95,11 @@ Meu objetivo é evoluir constantemente, construir projetos cada vez melhores e t
 
 ### 🌐 Web Development
 
-Projetos desenvolvidos utilizando **HTML + CSS**, explorando interfaces, layouts responsivos e experiências visuais.
+Projetos utilizando **HTML + CSS**, explorando estrutura, estilização, layouts e interfaces.
 
-**Stack:** `HTML` `CSS`
+**Stack**
+
+`HTML` `CSS`
 
 </td>
 
@@ -103,9 +107,11 @@ Projetos desenvolvidos utilizando **HTML + CSS**, explorando interfaces, layouts
 
 ### 🤖 Arduino
 
-Projetos de automação e eletrônica utilizando **Arduino**, sensores, componentes e lógica de programação.
+Projetos de eletrônica e automação utilizando Arduino, componentes e lógica de programação.
 
-**Stack:** `Arduino` `C/C++`
+**Stack**
+
+`Arduino` `C/C++`
 
 </td>
 </tr>
@@ -115,25 +121,27 @@ Projetos de automação e eletrônica utilizando **Arduino**, sensores, componen
 
 ### 🐍 Python
 
-Exercícios e projetos voltados para lógica de programação e desenvolvimento em Python.
+Projetos e exercícios focados em lógica de programação, resolução de problemas e desenvolvimento.
 
-**Stack:** `Python`
+**Stack**
+
+`Python`
 
 </td>
 
 <td width="50%">
 
-### 🖥️ Tech Lab
+### 🖥️ Hardware Lab
 
-Experimentos envolvendo hardware, sistemas operacionais, configuração e manutenção de computadores.
+Experimentos envolvendo computadores, hardware, sistemas operacionais e manutenção.
 
-**Stack:** `Hardware` `Windows`
+**Stack**
+
+`Hardware` `Windows`
 
 </td>
 </tr>
 </table>
-
-> 📌 Mais projetos serão adicionados conforme meu laboratório de código evolui.
 
 ---
 
@@ -142,17 +150,15 @@ Experimentos envolvendo hardware, sistemas operacionais, configuração e manute
 ```bash
 $ ./current_objectives.sh
 
-[01] ████████████████████  Developing programming skills
-[02] ██████████████████░░  Improving HTML & CSS
-[03] ███████████████░░░░░  Practicing Python
-[04] ██████████████░░░░░░  Building Arduino projects
-[05] ████████████░░░░░░░░  Learning Git & GitHub
-[06] ██████████░░░░░░░░░░  Improving English
-[07] ████████░░░░░░░░░░░░  Building real-world projects
+[01] ████████████████████  Melhorar programação
+[02] ██████████████████░░  Evoluir em HTML & CSS
+[03] ████████████████░░░░  Praticar Python
+[04] ██████████████░░░░░░  Criar projetos com Arduino
+[05] █████████████░░░░░░░  Aprender Git & GitHub
+[06] ███████████░░░░░░░░░  Melhorar meu inglês
+[07] ██████████░░░░░░░░░░  Criar projetos reais
 
-> SYSTEM MESSAGE:
-> Keep learning. Keep building.
-> No shortcuts. No limits.
+> STATUS: DEVELOPMENT IN PROGRESS
 ```
 
 ---
@@ -160,12 +166,12 @@ $ ./current_objectives.sh
 # `> github.analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielimacpq-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimacpq-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=gabrielimacpq-web&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="70%"/>
 </p>
 
 ---
@@ -173,7 +179,7 @@ $ ./current_objectives.sh
 ## `> activity.log`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielimacpq-web&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -181,7 +187,7 @@ $ ./current_objectives.sh
 ## `> achievements`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielimacpq-web&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%"/>
 </p>
 
 ---
@@ -189,7 +195,7 @@ $ ./current_objectives.sh
 ## `> contribution.matrix`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/gabrielimacpq-web/gabrielimacpq-web/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -198,12 +204,12 @@ $ ./current_objectives.sh
 
 <p align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/gabrielimacpq-web">
+  <img src="https://img.shields.io/badge/GitHub-Gabriel%20Ortiz-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Ortiz-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </p>
@@ -215,14 +221,14 @@ $ ./current_objectives.sh
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│  ortiz@github:~$ sudo ./build_future.sh                   │
+│  gabriel@github:~$ sudo ./build_future.sh                 │
 │                                                            │
 │  [✓] Curiosity detected                                   │
 │  [✓] Creativity loaded                                    │
 │  [✓] Code environment initialized                         │
 │  [✓] Learning process active                              │
 │                                                            │
-│  > Creating something new...                               │
+│  > Building the next version...                            │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
@@ -233,4 +239,8 @@ $ ./current_objectives.sh
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
+</p>
+
+<p align="center">
+  <sub>© Gabriel Ortiz • Built with curiosity, code and caffeine.</sub>
 </p>
