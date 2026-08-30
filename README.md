@@ -33,7 +33,7 @@
 
 Sou estudante de **Técnico de Informática**, interessado em tecnologia, programação, desenvolvimento web e hardware.
 
-Gosto de entender **como as coisas funcionam**, testar soluções e transformar ideias em projetos reais. Atualmente venho desenvolvendo meus conhecimentos principalmente em **HTML, CSS, Python e Arduino**, além de explorar ferramentas e tecnologias utilizadas no dia a dia da área de informática.
+Gosto de entender **como as coisas funcionam**, testar soluções e transformar ideias em projetos reais. Atualmente venho desenvolvendo meus conhecimentos principalmente em **HTML, CSS, Python e Arduino**,  além de explorar ferramentas e tecnologias utilizadas no dia a dia da área de informática.
 
 Meu objetivo é evoluir constantemente, construir projetos cada vez melhores e transformar conhecimento em algo que realmente funcione.
 
