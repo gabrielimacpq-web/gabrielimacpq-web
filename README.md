@@ -1,7 +1,5 @@
-GABRIEL ORTIZ
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6f42c1&height=220&section=header&text=ORTIZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TECH%20%7C%20CODE%20%7C%20CREATE&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6f42c1&height=220&section=header&text=GABRIEL ORTIZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TECH%20%7C%20CODE%20%7C%20CREATE&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
