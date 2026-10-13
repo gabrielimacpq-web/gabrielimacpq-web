@@ -70,15 +70,13 @@ Gosto de entender como as coisas funcionam, testar soluções e aprender fazendo
 ## `> tools`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,canva,tinkercad" />
 </p>
 
 * 💻 Visual Studio Code
 * 🔧 Git & GitHub
-* 🤖 Arduino IDE
+* 🤖 Arduino Tinkercad
 * 🎨 Canva
-* 📧 Microsoft Outlook
-* ☁️ Microsoft SharePoint
 * 🪟 Windows
 
 ---
