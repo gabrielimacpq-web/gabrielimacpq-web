@@ -75,7 +75,8 @@ Gosto de entender como as coisas funcionam, testar soluções e aprender fazendo
 
 * 💻 Visual Studio Code
 * 🔧 Git & GitHub
-* 🤖 Arduino Tinkercad
+* 🤖 Arduino 
+* Tinkercad
 * 🎨 Canva
 * 🪟 Windows
 
