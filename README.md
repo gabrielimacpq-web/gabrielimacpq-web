@@ -49,7 +49,7 @@ Gosto de entender como as coisas funcionam, testar soluções e aprender fazendo
 ## `> tech.stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,arduino,git,github,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,arduino,git,github,vscode,windows,streamlite" />
 </p>
 
 ### ⚡ Tecnologias
